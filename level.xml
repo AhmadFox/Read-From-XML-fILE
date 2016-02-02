@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<root>
+    <level1>
+        <name>Level One</name>
+        <score>0</score>
+        <status>open</status>
+    </level1>
+    <level1>
+        <name>Level Two</name>
+        <score>0</score>
+        <status>open</status>
+    </level1>
+    <level1>
+        <name>Level Three</name>
+        <score>0</score>
+        <status>closed</status>
+    </level1>
+    <level1>
+        <name>Level Four</name>
+        <score>0</score>
+        <status>closed</status>
+    </level1>
+    <level1>
+        <name>Level Five</name>
+        <score>0</score>
+        <status>closed</status>
+    </level1>
+    <level1>
+        <name>Level Six</name>
+        <score>0</score>
+        <status>closed</status>
+    </level1>
+    <level1>
+        <name>Level Seven</name>
+        <score>0</score>
+        <status>closed</status>
+    </level1>
+    <level1>
+        <name>Level Aight</name>
+        <score>0</score>
+        <status>closed</status>
+    </level1>
+    <level1>
+        <name>Level Nine</name>
+        <score>0</score>
+        <status>closed</status>
+    </level1>
+</root>
